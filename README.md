@@ -1,2 +1,2 @@
-# nodejs-testbed
-NodeJs Testbed
+# nodejs-restful-testbed
+NodeJs Restful Testbed
